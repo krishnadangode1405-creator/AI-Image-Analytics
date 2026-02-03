@@ -3,6 +3,8 @@
 An AI-powered web application that allows users to upload images and ask
 natural language questions using Google Gemini Generative AI.
 
+## 🔗https://github.com/krishnadangode1405-creator/AI-Image-Analytics
+
 ## 🚀 Features
 - Upload JPG / PNG images
 - Ask questions about images
