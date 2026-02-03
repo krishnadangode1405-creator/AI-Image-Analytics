@@ -22,3 +22,5 @@ natural language questions using Google Gemini Generative AI.
 pip install -r requirements.txt
 setx GEMINI_API_KEY "YOUR_API_KEY"
 streamlit run app.py
+
+
